@@ -112,7 +112,7 @@ These findings are based on the MATLAB model and the reported prototype monitori
 
 ## Project Documentation
 
-Refer to the `Documentation/` directory for the detailed technical report.
+Refer to the documents for the detailed technical report.
 
 ## Contributors
 
